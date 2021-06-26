@@ -22,7 +22,7 @@ Given access to proper data with real geotags, this tool can be used to monitor 
 
 <-------- HOW TO RUN -------->
 
-1. insert your Twitter API keys in stream.ipynb
+1. insert your Twitter API keys in keys.py
 2. run stream.ipynb
 3. run visualzie.ipynb
 
