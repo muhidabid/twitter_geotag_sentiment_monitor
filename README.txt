@@ -22,8 +22,9 @@ Given access to proper data with real geotags, this tool can be used to monitor 
 
 <-------- HOW TO RUN -------->
 
-1. run stream.ipynb
-2. run visualzie.ipynb
+1. insert your Twitter API keys in stream.ipynb
+2. run stream.ipynb
+3. run visualzie.ipynb
 
 * Note: Sentiment counts are stored in IK_tweets_provincial_stats.csv
 	Latest tweet is stored in tweet.txt
