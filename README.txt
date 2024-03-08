@@ -18,7 +18,7 @@ Unfortunately, we didn't have access to Twitter API's geotag data because we had
 
 Given access to proper data with real geotags, this tool can be used to monitor public sentiments about important current topics, politics, influential people etc.
 
-
+Note: Current project is tuned to monitoring political tweets in Pakistan. You can change the topic to anything you like.
 
 <-------- HOW TO RUN -------->
 
