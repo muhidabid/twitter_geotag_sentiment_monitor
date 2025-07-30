@@ -1,10 +1,9 @@
-<-------------------------------------------------------------->
 Created by: Muhid Abid Siddiqui, Zoha Jaleel
 Date: 26/06/2021
-<-------------------------------------------------------------->
 
+https://github.com/user-attachments/assets/e56c78d6-97a5-4428-be10-6685a1aa6c8b
 
-<------- Description ------->
+## Description
 
 Written in 𝗣𝘆𝘁𝗵𝗼𝗻, the model essentially fetches recent public tweets given a certain number of rules/filters, like keywords or hashtags. This is done using the Twitter API.
 
@@ -20,7 +19,7 @@ Given access to proper data with real geotags, this tool can be used to monitor 
 
 Note: Current project is tuned to monitoring political tweets in Pakistan. You can change the topic to anything you like.
 
-<-------- HOW TO RUN -------->
+## HOW TO RUN
 
 1. insert your Twitter API keys in keys.py
 2. run stream.ipynb
